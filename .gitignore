@@ -1,0 +1,23 @@
+# 빌드 폴더
+x64/
+Debug/
+Release/
+
+# 실행/빌드 결과물
+*.exe
+*.dll
+*.pdb
+*.obj
+*.log
+*.tlog
+*.ilk
+
+# Visual Studio 설정
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.cache
+
+# 기타
+*.tmp
